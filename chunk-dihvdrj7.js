@@ -1,0 +1,1 @@
+import{o as s,p as o}from"./chunk-W2FJMQXW.js";var t=o("tasks"),c=s(t,e=>e.tasks),n=s(t,e=>e.loading),k=s(t,e=>e.error),p=s(t,e=>e.successMessage),T=e=>s(c,r=>r.find(a=>a.id===e)??null);export{c as a,n as b,k as c,p as d,T as e};

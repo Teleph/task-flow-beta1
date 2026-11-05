@@ -1,0 +1,1 @@
+import{o as s,p as r}from"./chunk-W2FJMQXW.js";var t=r("friendships"),o=s(t,e=>e.searchResults),i=s(t,e=>e.receivedRequests),n=s(t,e=>e.sentRequests),p=s(t,e=>e.friends),d=s(t,e=>e.loading),l=s(t,e=>e.error),a=s(t,e=>e.successMessage);export{o as a,i as b,n as c,p as d,d as e,l as f,a as g};
